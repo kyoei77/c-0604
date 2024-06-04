@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\GoldMiner\GoldMiner\obj\Debug\GoldMiner.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\GoldMiner\GoldMiner\obj\Debug\GoldMiner.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\GoldMiner\GoldMiner\bin\Debug\GoldMiner.exe.config
+C:\Users\Owner\Desktop\GoldMiner\GoldMiner\bin\Debug\GoldMiner.exe
+C:\Users\Owner\Desktop\GoldMiner\GoldMiner\bin\Debug\GoldMiner.pdb
+C:\Users\Owner\Desktop\GoldMiner\GoldMiner\obj\Debug\GoldMiner.exe
+C:\Users\Owner\Desktop\GoldMiner\GoldMiner\obj\Debug\GoldMiner.pdb
